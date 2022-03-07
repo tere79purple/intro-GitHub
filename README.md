@@ -8,4 +8,4 @@ Taller desarrollado por GDSC de la Universidad de Guanajuato en colabotación po
 
 ### insertaremos una imagen
 
-![hack](kitty_pr.jpg)
+![hack](kitty_pr.JPG)
